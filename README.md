@@ -143,8 +143,8 @@ The dashboard focuses on the following business questions:
 
 ● Dashboard Screenshot
 
-8. Key Insights Derived from Analysis
-9. 
+# 8. Key Insights Derived from Analysis
+ 
 ## The dashboard provides several valuable business insights:
 
 ● Tier 3 outlet locations contribute the highest overall sales among all outlet locations.
