@@ -7,7 +7,9 @@ This project demonstrates the application of Business Intelligence techniques us
 # 3. Problem Statement
 Retail businesses generate large volumes of transactional data every day, making it difficult to monitor performance through traditional reporting methods. Decision-makers require interactive dashboards that provide quick access to key business metrics and performance indicators. 
 This project addresses these challenges by using Power BI to:
+
 ● Analyze overall sales performance
+
 ● Compare outlet performance across different locations and sizes
 ● Evaluate product category contributions
 ● Monitor customer ratings and purchasing trends
