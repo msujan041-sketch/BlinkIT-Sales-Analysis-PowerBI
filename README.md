@@ -11,33 +11,56 @@ This project addresses these challenges by using Power BI to:
 ● Analyze overall sales performance
 
 ● Compare outlet performance across different locations and sizes
+
 ● Evaluate product category contributions
+
 ● Monitor customer ratings and purchasing trends
+
 ● Generate interactive business reports for decision-making
+
 # 4. Dataset Overview
+
 The project uses a grocery sales dataset containing information related to BlinkIT's retail operations.
 
 📁 *Excel File:*
 
 *[BlinkIT_Grocery_Data.xlsx](BlinkIT_Grocery_Data.xlsx_)*
+
 The dataset includes:
+
 ● Product Details
+
 ● Item Type
+
 ● Fat Content
+
 ● Outlet Identifier
+
 ● Outlet Size
+
 ● Outlet Location
+
 ● Outlet Type
+
 ● Outlet Establishment Year
+
 ● Sales
+
 ● Customer Rating
+
 ● Item Visibility
+
 The data is stored in an Excel file and imported into Power BI for transformation and analysis.
+
 # 5. Data Preparation
 The dataset was prepared using Power Query Editor, where the following operations were performed:
+
 ● Data Cleaning
+
 ● Handling Missing Values
+
 ● Data Type Conversion
+
 ● Removing Duplicates
 ● Column Transformation
 ● Data Formatting
