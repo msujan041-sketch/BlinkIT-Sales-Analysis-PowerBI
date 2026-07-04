@@ -15,7 +15,7 @@ This project addresses these challenges by using Power BI to:
 # 4. Dataset Overview
 The project uses a grocery sales dataset containing information related to BlinkIT's retail operations.
 📁 *Excel File:*
-
+BlinkIT_Grocery_Data.xlsx
 The dataset includes:
 ● Product Details
 ● Item Type
@@ -62,6 +62,8 @@ The dashboard focuses on the following business questions:
 ● Dashboard Design
 ● Business Intelligence Reporting
 ● Dashboard Components
+📁 *Complete Power BI Dashboard:*
+*[blinkit_analyisi_dashboard.pbix](blinkit_analyisi_dashboard.pbix)*
 ## The dashboard includes the following visualizations:
 ● KPI Cards (Total Sales, Average Sales, Total Items, Average Rating)
 ● Sales by Outlet Location
