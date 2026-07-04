@@ -16,8 +16,10 @@ This project addresses these challenges by using Power BI to:
 ● Generate interactive business reports for decision-making
 # 4. Dataset Overview
 The project uses a grocery sales dataset containing information related to BlinkIT's retail operations.
+
 📁 *Excel File:*
-BlinkIT_Grocery_Data.xlsx
+
+*[BlinkIT_Grocery_Data.xlsx](BlinkIT_Grocery_Data.xlsx_)*
 The dataset includes:
 ● Product Details
 ● Item Type
